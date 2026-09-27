@@ -1,6 +1,16 @@
-## train-to-efficiency
+### train-to-efficiency
 # MY FULL CHAPTER: https://books.google.pl/books?id=x9QAEgAAQBAJ&newbks=0&lpg=PA99&dq=Analiza%20ilo%C5%9Bciowa%20wybranych%20problem%C3%B3w%20z%20zakresu%20ekonomii%20i%20finans%C3%B3w&hl=pl&pg=PA219#v=onepage&q&f=false 
 ## Założenia i wyniki niniejszego badania przedstawiono w maju 2026 roku podczas ogólnopolskiej konferencji Narzędzia Analityczne w Naukach Ekonomicznych (NAWNE)
+---
+Project TL;DR (for recruiters): Evaluation of Subcarpathian Metropolitan Railway (PKA)
+### Main Goal: To evaluate the impact of the newly launched PKA railway system on passenger stop efficiency and ridership growth between 2021 and 2024, addressing attribution challenges using a control group.
+### Methods:
+* Multivariate Statistical Analysis: Constructed a synthetic efficiency index based on stimulants and destimulants (equal weight framework with robustness checks).
+* Econometric Approach: Conducted a comparative analysis with a control group (reference railway line no. 68).
+* Statistical Testing: Performed normality checks (Shapiro-Wilk test) and non-parametric group comparisons (Mann-Whitney U test / Wilcoxon tests) using R and Excel.
+### Result: Quantified the net performance uplift of PKA stations over the control group, demonstrating statistically significant improvements in passenger turnover while accounting for post-pandemic mobility shifts. (Presented at the NAWNS 2026 conference).
+
+---
 
 ### Ewaluacja efektywności przystanków osobowych w kontekście wdrożenia Podkarpackiej Kolei Aglomeracyjnej (PKA) / Evaluation of Passenger Stop Efficiency in the Context of the Subcarpathian Metropolitan Railway (PKA) Implementation
 
