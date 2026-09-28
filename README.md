@@ -8,7 +8,7 @@ Project TL;DR (for recruiters): Evaluation of Subcarpathian Metropolitan Railway
 * Multivariate Statistical Analysis: Constructed a synthetic efficiency index based on stimulants and destimulants (equal weight framework with robustness checks).
 * Econometric Approach: Conducted a comparative analysis with a control group (reference railway line no. 68).
 * Statistical Testing: Performed normality checks (Shapiro-Wilk test) and non-parametric group comparisons (Mann-Whitney U test / Wilcoxon tests) using R and Excel.
-### Result: Quantified the net performance uplift of PKA stations over the control group, demonstrating statistically significant improvements in passenger turnover while accounting for post-pandemic mobility shifts. (Presented at the NAWNE 2026 conference).
+### Result: Quantified the net performance uplift of PKA stations over the control group, demonstrating statistically great improvements in passenger turnover. (Presented at the NAWNE 2026 conference).
 
 ---
 
